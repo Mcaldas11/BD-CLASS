@@ -11,5 +11,3 @@ Queries
   - Retrieve full information for a specific municipality.
   - Parameter: `?` = `idMunicipio` (replace with your client's parameter style, e.g., `$1` or `:id`).
 
-Usage notes
-- Replace the `?` placeholder with the parameter syntax expected by your DB client.

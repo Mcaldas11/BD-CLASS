@@ -12,5 +12,3 @@ Queries
   - Retrieve full information for a citizen.
   - Parameter: `?` = `idCidadao`.
 
-Usage notes
-- Adapt the `?` placeholder to your client parameter style.

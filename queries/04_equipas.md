@@ -11,6 +11,3 @@ Queries
 - `SELECT idOcorrencia, descricao, estado, dataAgendada FROM ocorrencia WHERE idEquipa = ?;`
   - Incidents assigned to a team.
   - Parameter: `?` = `idEquipa`.
-
-Usage notes
-- Convert `?` to your parameter style as needed.

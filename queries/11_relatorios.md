@@ -9,6 +9,3 @@ Queries
 
 - `SELECT estado, COUNT(*) AS totalOcorrencias FROM ocorrencia GROUP BY estado;`
   - Aggregates incidents by their `estado` (state/status).
-
-Usage notes
-- Adapt parameter placeholders to your DB client conventions.

@@ -6,6 +6,3 @@ Purpose
 Queries
 - `SELECT n.idNotificacao, n.prazos, o.descricao FROM notificacao n JOIN ocorrencia o ON n.idOcorrencia = o.idOcorrencia WHERE n.idCidadao = ?;`
   - Parameter: `?` = `idCidadao`.
-
-Usage notes
-- Replace the `?` placeholder with your application's parameter format.
